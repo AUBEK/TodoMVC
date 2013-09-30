@@ -1,0 +1,12 @@
+To Do
+
+Mon objectif est de créer une entrepise. Pour cela je dois:
+
+- Suivre une formation (Education)
+- Faire des satges en entreprise + emploi (Experience)
+- Crée l'entreprise après obtension des expériences et patenaire (Enterprise)
+
+Par la suite pour un bon management de mon entreprise j'ai juger bon faire une formation
+en MBA. 
+- Pour cela ajout d'une autre tâche MBA
+
