@@ -1,0 +1,46 @@
+ex04
+
+5/10
+
+(-1) packages @GitHub ?
+pubspec.lock @GitHib ?
+
+(-1) .gitignore ?
+
+(-1) README.md ? voir Forum
+
+(-1) TodoMVC
+->
+todo_mvc
+ou
+todomvc
+library TodoMVC;
+->
+library todo_mvc;
+ou
+library todomvc;
+voir https://www.dartlang.org/articles/style-guide/
+
+static final String todo = 'todo';
+->
+static final String todo = 'Todo';
+Todo est un nom de concept
+
+String etat;
+->
+bool termine;
+
+testProjects
+->
+testTodos
+
+var projectCount = 0;
+->
+var todoCount = 0;
+
+(-1) var programmingProjects = todos.select((p) => p.onActive);
+programmingProjects  ?
+
+
+
+
